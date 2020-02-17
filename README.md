@@ -5,10 +5,10 @@ Dataset is available from IEEE ISBI Challenge,you can download it from https://f
 The task of this challenge is to localize the anatomical landmarks of skulls automatically.The evaluation metrics for this task is Euclidean distance between ground truth and prediction.
 
 example of original image:
-![image](http://github.com/Wxy-24/2D_Cephalometry/raw/master/img/original.png)
+![image](http://github.com/Wxy-24/2D_Cephalometry/raw/master/2D_cephalometry/img/original.png)
 
 example of landmark annotation:
-![image](http://github.com/Wxy-24/2D_Cephalometry/raw/master/img/annotation.png)
+![image](http://github.com/Wxy-24/2D_Cephalometry/raw/master/2D_cephalometry/img/annotation.png)
 
 Here in this repo I compare the different method of localization including coordinate regression and prediction based on heatmap&argmax
 
