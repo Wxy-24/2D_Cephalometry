@@ -10,9 +10,16 @@ example of original image:
 example of landmark annotation:
 ![image](http://github.com/Wxy-24/2D_Cephalometry/raw/master/2D_cephalometry/img/annotation.png)
 
+
+
+
 Here in this repo I compare the different method of localization including coordinate regression and prediction based on heatmap&argmax
 
+
+
 I select 6 landmarks as targets and perform deep learning based method to localize them.Overall mean error of these landmark in a 4X downsampled images are shown as below(mean euclidean distance error is around 5.8 pixels)
+
+
 
 sella turica:6.62
 
