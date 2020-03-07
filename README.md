@@ -26,4 +26,5 @@ gonion:8.82
 
 anterior nasal spine:5.39
 
-You can find example of landmark *gnathion* localization using deep learning with unet/YOLOv1 architecture in .ipynb format in this repo.
+You can find code in the folder and Run *main.py* to see the perforance.
+(You can also find examples in .ipynb format in another folder)
